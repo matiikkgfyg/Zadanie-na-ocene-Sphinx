@@ -10,7 +10,7 @@ Z dokumentu dowiesz się o
 
 -Zestawieniu sprzętu
 ### Instalacja
-1. sklonuj repozytorium: git clone  git@github.com:matiikkgfyg/Zadanie-na-ocene.git
+1. sklonuj repozytorium: git clone git@github.com:matiikkgfyg/Zadanie-na-ocene.git
 ### Przydatne komendy
 ls (pokazuje dostępne katalogi)
 cd (wejście do danego katalogu np cd source)
@@ -18,5 +18,5 @@ mc (przelądanie plików)
 
 
 ##Dziękuje za przeczytanie##
-
+###Miłego dnia###
 Autor: Mateusz Dziedzic
