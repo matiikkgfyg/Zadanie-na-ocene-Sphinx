@@ -10,7 +10,7 @@ Z dokumentu dowiesz się o
 
 -Zestawieniu sprzętu
 ### Instalacja
-1. sklonuj repozytorium: git clone git@github.com:matiikkgfyg/Zadanie-na-ocene.git
+1. sklonuj repozytorium: git@github.com:matiikkgfyg/Zadanie-na-ocene-Sphinx.git
 ### Przydatne komendy
 ls (pokazuje dostępne katalogi)
 cd (wejście do danego katalogu np cd source)
